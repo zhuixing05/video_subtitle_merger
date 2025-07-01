@@ -1,0 +1,2 @@
+# video_subtitle_merger
+FFmpeg字幕与mp4视频合并Python脚本
